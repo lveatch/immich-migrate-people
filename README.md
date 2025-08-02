@@ -78,7 +78,7 @@ people retrieved 6700
 [lines redacted]
 
 line 50 / 6018  (0 assets)      1994_06_04_221434.png
-updating person (76e25db1-c1e7-4c75-afe1-d16f6c85024d) with Jon},  from line 52)
+updating person (76e25db1-c1e7-4c75-afe1-d16f6c85024d) with Jon,  from line 52)
 
 updating person (d0767ca8-e7cd-4d28-b356-049dfeffb43b) with Jon,  from line 53)
 
@@ -92,7 +92,7 @@ updating person (0fe14125-ee55-4d60-998a-41266808d472) with Jon,  from line 80)
 line 100 / 6018 (1127 assets)   slide_043.jpg
 updating person (be36ee7d-2fcb-4360-b093-1040a63bef23) with Jane,  from line 158)
 line 300 / 6018 (3517 assets)   1952_125524.png
-updating person (474f3f19-0585-4bb9-af41-52bd72a192a9) with John  (Uncle Johnny),  from line 305)
+updating person (474f3f19-0585-4bb9-af41-52bd72a192a9) with John,  from line 305)
 
 updating person (f24b967a-f154-4452-a439-19f070461335) with Eric ,  from line 336)
 
