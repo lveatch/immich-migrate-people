@@ -147,5 +147,5 @@ Additionally, executing ```./import.people -test``` will display what will chang
 5. All found users are un-named.
 6. Ran the import script.
 7. Spot checked the results.
-8. 
+   
 
