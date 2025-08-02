@@ -33,7 +33,6 @@ server=http://docker1:2283
 # from@domain.tld
 apiKey=QKLLxISmpuvJAzCjxQbCWg1FRPsuI8ndvMyti9sQ
 
-debug=0
 ```
 
 ### immich.import.config
@@ -43,7 +42,6 @@ server=http://docker1:2283
 # to@domain.tld
 apiKey=bIln15UFJwZrKJy9TeNK8BASO7t4IS9Fmof8YByd9s
 
-debug=0
 ```
 
 ## Executing
