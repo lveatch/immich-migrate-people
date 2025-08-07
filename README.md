@@ -3,6 +3,8 @@ Migrate named people in images between immich accounts
 
 **!!! This has only been tested on Ubuntu OSes, but should work on other linux based systems !!!**
 
+<ins>I recommend using the new docker image [immich-migrate-tools](https://github.com/lveatch/immich-migrate-tools) for migrating people.</ins>
+
 ## Overview
 Exports people names / faces associated with images from one immich account to another account. This can be between two accounts on the same instance or seperate instances. Matching between accounts is done on asset name. I did not have any issues with duplicate asset names as the face match is based on the position (the square) of the face detected.
 
